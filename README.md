@@ -2,6 +2,7 @@
 
 <p align="center"><img src="fig/framework.svg" width="100%" alt="" /></p>
 <p align="center"><img src="fig/fusion.svg" width="100%" alt="" /></p>
+
 ## Installation
 
 - Create a conda environment: ```conda create -n esmformer python=3.7```
