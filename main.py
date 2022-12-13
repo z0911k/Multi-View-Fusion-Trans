@@ -53,7 +53,7 @@ def step(split, opt, actions, dataLoader, model, optimizer=None, epoch=None, wri
 
         if split == 'train':
             loss = mpjpe_cal(output_3D, out_target)
-            # 进度条设置\n",
+            
             TQDM.set_description(f'Epoch [{epoch}/{opt.nepoch}]')
             TQDM.set_postfix({"l": loss.item()})
 
