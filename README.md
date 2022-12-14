@@ -1,6 +1,6 @@
 # EXPLORING MULTI-VIEW FUSION TRANSFORMER FOR 3D HUMAN POSE ESTIMATION
 
-<p align="center"><img src="fig/framework.svg" width="100%" alt="" /></p>
+<p align="center"><img src="fig/framework.svg" width="50%" alt="" /></p>
 <p align="center"><img src="fig/fusion.svg" width="100%" alt="" /></p>
 
 ## Installation
